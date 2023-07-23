@@ -1,0 +1,75 @@
+*{
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.div{
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
+.internal{
+    background-color: green;
+    color: white;
+
+}
+button{
+    color:black;
+    background-color: orange;
+    font-size: 18px;
+    
+
+}
+
+.odd{
+    color: black;
+    background-color: rgb(255, 167, 167);
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#two{
+    color:blue;
+    text-align: center;
+  
+    font-size:40px;
+}
+#four{
+    background-color:green;
+    color:black;
+}
+
+.adjust-font{
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.inverted{
+    color:white;
+    background-color: black;
+
+
+}
+.fancy{
+    color:black;
+    background-color: yellow;
+
+
+}
+.inverted,
+.fancy{
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.des1 .text{
+    background-color: yellow;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+} 
